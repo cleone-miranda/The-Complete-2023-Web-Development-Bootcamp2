@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+    font-size: 70px;
+    text-align: center;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    img {
+        margin: 0 225px;
+        width: 150px;
+    }
+}

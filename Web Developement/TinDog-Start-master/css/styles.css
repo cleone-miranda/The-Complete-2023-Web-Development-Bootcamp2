@@ -1,0 +1,56 @@
+body {
+    font-family: 'Ubuntu';
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+/* Navbar */
+.navbar {
+    font-family: 'Ubuntu';
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+/* title */
+
+#title {
+    background-color: #ff4c68;
+}
+
+.col-lg-6 {
+    margin: 50px 0;
+}
+
+.row:last-child img {
+    transform: rotate(15deg);
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+
+}
+
+.btn {
+    margin: 25px 0;
+}
+
+.btn + .btn {
+    margin-left: 10px;
+}
+

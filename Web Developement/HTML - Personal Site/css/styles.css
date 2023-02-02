@@ -1,0 +1,27 @@
+body {
+    background-color: #98E8C1;
+}
+
+hr {
+    border-style: none;
+    border-top: 5px dotted grey;
+    width: 20vw;
+}
+
+h1,
+h2 {
+    color: #66bfbf;
+    text-align: center;
+}
+
+img {
+    width: 125px;
+    border-radius: 62.5px;
+}
+
+@media screen and (min-width: 600px){
+    body {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+}

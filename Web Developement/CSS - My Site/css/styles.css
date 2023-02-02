@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 3.125rem auto 0;
+}
+
+h1,
+h2 {
+    color: #66BFBF;
+}
+
+h2,
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+h3,
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #B9F3FC;
+    margin: 0 auto;
+    padding: 100px 0 0 0;
+    position: relative;
+
+}
+
+hr {
+    border-bottom: 10px dotted #EAF6F6;
+    border-left: none;
+    border-top: none;
+    margin-bottom: 6.25rem;
+    width: 6%;
+}
+
+.profile {
+    margin: 6.25rem auto;
+    width: 25%;
+}
+
+ p {
+    color: #40514E;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 6.25rem auto;
+}
+
+.skill-row p {
+    line-height: 2;
+    text-align: left;
+}
+
+.computer {
+    float: left;
+    margin-right: 1.875rem;
+    width: 25%;
+}
+
+.chillie {
+    float: right;
+    margin-right: 1.875rem;
+    width: 25%;
+}
+
+
+.contact-me {
+    margin: 3.125rem auto;
+    width: 40%;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 1.5625rem;
+}
+
+.bottom-container a {
+    color: #11999E;
+    padding: 1.5625rem;
+    text-decoration: none;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    text-decoration: none;
+}
+
+.top-cloud,
+.bottom-cloud {
+    display: inline-block;
+    position: absolute;
+}
+
+.top-cloud {
+    right: 150px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    left: 150px;
+    bottom: 300px;
+}
+
+.mountain {
+    display: inline-block;
+}

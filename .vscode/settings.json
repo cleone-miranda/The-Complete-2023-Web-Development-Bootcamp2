@@ -1,9 +1,4 @@
 {
-    "cSpell.words": [
-        "Bootcamp",
-        "Cleone",
-        "NOSQL",
-        "Udemy",
-        "Walkthrough"
-    ]
+  "cSpell.words": ["Bootcamp", "Cleone", "NOSQL", "Udemy", "Walkthrough"],
+  "liveServer.settings.port": 5501
 }
